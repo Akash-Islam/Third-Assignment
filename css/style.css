@@ -1,0 +1,210 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	height: 100px;
+	background-color: yellow;
+
+}
+.container{
+	width: 1140px;
+	margin: auto;
+	background-color: red;
+	height: 100px;
+}
+.logo{
+	background-color:green;
+	width: 50%;
+	height: 100px;
+	float: left;
+
+}
+.menu-bar{
+	background-color: blue;
+	width: 50%;
+	height: 100px;
+	float: left;
+
+}
+.section{
+	background-color: maroon;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-two{
+	background-color: pink;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-three{
+	background-color: black;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-four{
+	background-color: aqua;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.background {
+    background: url(../img/sea.jpg) no-repeat;
+    height: 300px;
+    background-size: auto;
+}
+.container-two {
+    width: 1140px;
+    margin: auto;
+    background-color: blue;
+    height: 400px;
+}
+.color{
+	height: 400px;
+	background-color: white;
+}
+.middle{
+	background-color: coral;
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+.middle-two{
+	background-color: midnightblue;
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+.container-three{
+	width: 1140px;
+	margin: auto;
+	background-color: red;
+	height: 100px;
+}
+.logo-two{
+	background-color:green;
+	width: 50%;
+	height: 100px;
+	float: left;
+
+}
+.menubar-two{
+	background-color: blue;
+	width: 50%;
+	height: 100px;
+	float: left;
+
+}
+.section-five{
+	background-color: lightgray;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-six{
+	background-color: #3a3032;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-seven{
+	background-color: crimson;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.section-eight{
+	background-color: lightgray;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.position{
+	background-color: white;
+}
+.fourth{
+	background-color: white;
+	    height: 300px;
+}
+.container-four{
+	width: 1140px;
+	background-color: lightgreen;
+	margin:auto;
+	height:300px;
+}
+.middle-three{
+   background-color:gray; 
+   width:50%;
+   height: 300px;
+   float: left;
+
+}
+.middle-four{
+   background-color: crimson;
+   width: 50%;
+   height:300px;
+   float: left;
+}
+.below{
+	
+	text-align: center;
+	background-color: #9fb99f;
+	 
+
+}
+.below-one{
+	text-align: center;
+	background-color: white;
+}
+.div-eigth{
+	background-color: red;
+	height:50px;
+}
+.div-seventh{
+	background-color: #5c5f5c;
+	height: 200px;
+}
+.seven-one{
+	background-color: yellow;
+	margin:0 auto;
+	width: 20%;
+	height: 100%;
+	float: left;
+
+}
+.seven-two{
+background-color: bisque;
+	margin:0 auto;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.seven-three{
+	background-color: burlywood;
+	margin:0 auto;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.seven-four{
+    background-color: coral;
+	margin:0 auto;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.seven-five{
+	background-color: brown;
+	margin:0 auto;
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.footer{
+	background-color:black;
+	height: 50px;
+}
